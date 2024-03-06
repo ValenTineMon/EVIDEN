@@ -1,0 +1,4 @@
+@EndUserText.label: 'Service Definition for Flight Demo'
+define service ZCEBC_FLIGHT_DEMO_SRV {
+  expose ZCEBC_FLIGHT_DEMO as Flight;
+}
