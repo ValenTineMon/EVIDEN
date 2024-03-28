@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_DTEL" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <DD04V>
+    <ROLLNAME>ZECREATE_TIME</ROLLNAME>
+    <DDLANGUAGE>E</DDLANGUAGE>
+    <DOMNAME>TIME</DOMNAME>
+    <HEADLEN>12</HEADLEN>
+    <SCRLEN1>08</SCRLEN1>
+    <SCRLEN2>12</SCRLEN2>
+    <SCRLEN3>12</SCRLEN3>
+    <DDTEXT>Created Time</DDTEXT>
+    <REPTEXT>Created Time</REPTEXT>
+    <SCRTEXT_S>Cr. Time</SCRTEXT_S>
+    <SCRTEXT_M>Created Time</SCRTEXT_M>
+    <SCRTEXT_L>Created Time</SCRTEXT_L>
+    <DTELMASTER>E</DTELMASTER>
+    <REFKIND>D</REFKIND>
+   </DD04V>
+   <I18N_LANGS>
+    <LANGU>D</LANGU>
+   </I18N_LANGS>
+   <DD04_TEXTS>
+    <item>
+     <DDLANGUAGE>D</DDLANGUAGE>
+     <DDTEXT>Anlegezeit</DDTEXT>
+     <REPTEXT>Anlegezeit</REPTEXT>
+     <SCRTEXT_S>AnlZeit</SCRTEXT_S>
+     <SCRTEXT_M>Anlegezeit</SCRTEXT_M>
+     <SCRTEXT_L>Anlegezeit</SCRTEXT_L>
+    </item>
+   </DD04_TEXTS>
+  </asx:values>
+ </asx:abap>
+</abapGit>
