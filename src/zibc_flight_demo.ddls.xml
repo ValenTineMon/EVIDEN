@@ -6,7 +6,7 @@
     <DDLNAME>ZIBC_FLIGHT_DEMO</DDLNAME>
     <DDLANGUAGE>E</DDLANGUAGE>
     <DDTEXT>Flight Demo</DDTEXT>
-    <SOURCE_TYPE>V</SOURCE_TYPE>
+    <SOURCE_TYPE>W</SOURCE_TYPE>
    </DDLS>
   </asx:values>
  </asx:abap>
